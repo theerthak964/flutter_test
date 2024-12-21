@@ -7,8 +7,9 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
 import 'package:flutter/material.dart';
-import 'package:order_app_project/components/BlueTotth%20print/pdfbill.dart';
-import 'package:order_app_project/components/BlueTotth%20print/return_pdf.dart';
+import 'package:order_app_project/BlueTotth%20print/pdfbill.dart';
+import 'package:order_app_project/BlueTotth%20print/r-pdfbill.dart';
+
 import 'package:order_app_project/components/customSnackbar.dart';
 import 'package:order_app_project/db_helper.dart';
 import 'package:order_app_project/model/2_registration_model.dart';

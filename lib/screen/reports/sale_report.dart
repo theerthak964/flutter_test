@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:order_app_project/components/BlueTotth%20print/pdf_salesreport.dart';
+import 'package:order_app_project/BlueTotth%20print/pdfsalesbill.dart';
 import 'package:order_app_project/components/IminPrint/iminprint.dart';
 import 'package:order_app_project/components/commoncolor.dart';
 
